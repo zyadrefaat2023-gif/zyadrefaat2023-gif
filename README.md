@@ -1,5 +1,5 @@
-# My name's Zyad Refaat
-### Data Scientist & Analyst | ML Engineer | Statistician
+#                                                     My name's Zyad Refaat
+###                                    Data Scientist & Analyst | ML Engineer | Statistician
 
 ---
 
@@ -22,7 +22,7 @@ I'm a **Statistics student at the Faculty of Science, Tanta University**. My goa
 
 ## 🛠 Tech Stack
 - **Languages:** Python (Advanced), SQL.
-- **Data Science & ML:** Machine Learning, Statistical Analysis, Hypothesis Testing, SPSS.
+- **Data Science & ML:** Machine Learning, Statistical Analysis, Hypothesis Testing, SPSS, Minitab.
 - **Visualization & BI:** Power BI, Microsoft Excel, Google Sheets.
 
 <p align="left">
