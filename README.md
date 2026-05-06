@@ -36,7 +36,7 @@ I'm a **Statistics student at the Faculty of Science, Tanta University**. My goa
 ---
 
 ## 📁 Key Projects
-- **AI Car Price Prediction (https://zyadrefaat2023-gif.github.io/AI-Car-Price-Prediction/):** A Machine Learning project using Python to predict vehicle market values.
+- **AI Car Price Prediction (https://zyadrefaat2023-gif.github.io/AI-Car-Price-Prediction/), App (https://car-price-microservices.vercel.app/):** A Machine Learning project using Python to predict vehicle market values.
 - **Hypothesis Testing Study:** A practical statistical study applying rigorous testing methods for decision support.
 - **Data Analysis Portfolio:** Various projects involving SQL, Power BI, and Excel for business insights.
 
